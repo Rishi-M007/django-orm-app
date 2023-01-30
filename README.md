@@ -42,6 +42,7 @@ class PatientAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-![output](pic1.png)
+![OUTPUT](pic1.png)
+
 ## RESULT
 Thus a Django application is successfully developed to store and retrieve data from a database using Object Relational Mapping(ORM).
